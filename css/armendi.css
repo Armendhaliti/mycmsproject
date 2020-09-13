@@ -1,0 +1,11 @@
+.lead,.title{
+    word-break: break-all;
+}
+
+.col-md-8{
+    
+   overflow-wrap: break-word; 
+    
+}
+
+
